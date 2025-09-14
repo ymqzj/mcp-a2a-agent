@@ -1,0 +1,11 @@
+mcp[cli]
+uvicorn
+fastapi
+crewai
+crewai-tools
+openai
+tavily-python
+arxiv
+trafilatura
+pymupdf
+requests

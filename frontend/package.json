@@ -1,0 +1,28 @@
+{
+  "name": "frontend",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/server": "^11.11.0",
+    "@mantine/core": "^7.17.8",
+    "@mantine/dates": "^7.17.8",
+    "@mantine/hooks": "^7.17.8",
+  "react-markdown": "^8.0.5",
+  "remark-gfm": "^3.0.1",
+  "rehype-prism-plus": "^2.0.1",
+  "prismjs": "^1.29.0",
+    "next": "14.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.4.0",
+    "@types/react": "19.1.13",
+    "typescript": "5.9.2"
+  }
+}
